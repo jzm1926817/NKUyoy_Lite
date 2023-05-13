@@ -2,6 +2,8 @@
 灵感来源：yiotro-antiyoy（实际上是前作slay）
 github:  https://github.com/yiotro/Antiyoy
 
+####重要
+下载最新版建议使用根目录文件中的onedrive下载压缩文件。若只下载成品文件，也可以只下载游戏程序
 
 #### 介绍
 青春版antiyoy
@@ -57,7 +59,7 @@ github:  https://github.com/yiotro/Antiyoy
 
 #### 安装教程
 
-1.  详见“注意事项”文件
+1.  双击release.exe即可运行
 
 #### 使用说明
 
